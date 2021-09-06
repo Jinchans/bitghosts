@@ -1,0 +1,45 @@
+/* Styles go here */
+.id {
+  border-radius: 50%;
+}
+
+.network {
+  width: 125px;
+  height: 43px;
+  color: #ffffff;
+  background-color: #303030;
+  border: 1mm ridge #ca55ff;
+}
+
+.balance {
+  width: 125px;
+  height: 43px;
+  color: #ffffff;
+  background-color: #505050;
+  border: 1mm ridge #ca55ff;
+}
+
+.account {
+  width: 150px;
+  height: 43px;
+  color: #ca55ff;
+  background-color: #707070;
+  border: 1mm ridge #ca55ff;
+}
+
+.bgDark7 {
+  background-color: #1d1d1d;
+}
+
+.navBorderBottom {
+  border-bottom: 1mm ridge rgba(202, 85, 255, 0.8);
+}
+
+.loading {
+  height: 1440px;
+  background-color: #1d1d1d;
+}
+
+p {
+  margin: 5px;
+}
